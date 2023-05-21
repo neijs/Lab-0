@@ -1,0 +1,12 @@
+D:\CSHARP\SpringLab1\SpringLab1\bin\Debug\net6.0\SpringLab1.deps.json
+D:\CSHARP\SpringLab1\SpringLab1\bin\Debug\net6.0\SpringLab1.dll
+D:\CSHARP\SpringLab1\SpringLab1\bin\Debug\net6.0\SpringLab1.pdb
+D:\CSHARP\SpringLab1\SpringLab1\obj\Debug\net6.0\SpringLab1.csproj.AssemblyReference.cache
+D:\CSHARP\SpringLab1\SpringLab1\obj\Debug\net6.0\SpringLab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSHARP\SpringLab1\SpringLab1\obj\Debug\net6.0\SpringLab1.AssemblyInfoInputs.cache
+D:\CSHARP\SpringLab1\SpringLab1\obj\Debug\net6.0\SpringLab1.AssemblyInfo.cs
+D:\CSHARP\SpringLab1\SpringLab1\obj\Debug\net6.0\SpringLab1.csproj.CoreCompileInputs.cache
+D:\CSHARP\SpringLab1\SpringLab1\obj\Debug\net6.0\SpringLab1.dll
+D:\CSHARP\SpringLab1\SpringLab1\obj\Debug\net6.0\refint\SpringLab1.dll
+D:\CSHARP\SpringLab1\SpringLab1\obj\Debug\net6.0\SpringLab1.pdb
+D:\CSHARP\SpringLab1\SpringLab1\obj\Debug\net6.0\ref\SpringLab1.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WPF1/1.0.0": {
+        "dependencies": {
+          "CLib1": "1.0.0"
+        },
+        "runtime": {
+          "WPF1.dll": {}
+        }
+      },
+      "CLib1/1.0.0": {
+        "runtime": {
+          "CLib1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WPF1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CLib1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
